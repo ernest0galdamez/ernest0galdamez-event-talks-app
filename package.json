@@ -1,0 +1,12 @@
+{
+  "name": "event-website-generator",
+  "version": "1.0.0",
+  "description": "Generates a single-page event website.",
+  "main": "build.js",
+  "scripts": {
+    "build": "node build.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
